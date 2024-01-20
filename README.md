@@ -2,6 +2,8 @@
 
 This is a sample react app build for interior design. This application also has the price calculator based on the imput values width, height and price.
 
+![My Application](https://github.com/harshatechtrainings/react-interior-app/blob/main/src/assets/images/app.PNG)
+
 ### Clone
 
 ```bash
